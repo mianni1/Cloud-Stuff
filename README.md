@@ -18,13 +18,13 @@ In this repository, I'll be diving into the world of cloud CLI and exploring the
 
 ## Projects
 
-I'll be organising my projects into separate folders within this repository. Each folder will represent a specific project or topic related to cloud technologies. Here's a list of the projects I've worked on so far:
+I'll be organizing my projects into separate folders within this repository. Each folder will represent a specific project or topic related to cloud technologies. Here's a list of the projects I've worked on so far:
 
--
+- [Networking/AWS Slightly_Complex_Ver Networking](Networking/AWS_Slightly_Complex_Ver_Networking)
 
 ## Setup
 
-To run the projects in this repository, make sure you have the following setup:
+This is my setup:
 
 - Apple Silicon MacBook Pro
 - [Homebrew](https://brew.sh/) package manager installed
@@ -50,4 +50,3 @@ If you'd like to contribute to this repository or have any suggestions for impro
 ## License
 
 This repository is licensed under the [Mozilla Public License Version 2.0](LICENSE). You are free to use, modify, and distribute the code and projects within this repository under the terms of the license.
-
