@@ -20,7 +20,7 @@ In this repository, I'll be diving into the world of cloud CLI and exploring the
 
 I'll be organizing my projects into separate folders within this repository. Each folder will represent a specific project or topic related to cloud technologies. Here's a list of the projects I've worked on so far:
 
-- [Networking/AWS Slightly_Complex_Ver Networking](Networking/AWS_Slightly_Complex_Ver_Networking)
+- [Networking/AWS_Slightly_Complex_Ver_Networking](Networking/AWS_Slightly_Complex_Ver_Networking)
 
 ## Setup
 
