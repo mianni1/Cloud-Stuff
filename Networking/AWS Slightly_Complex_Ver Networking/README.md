@@ -59,6 +59,3 @@ The script performs the following actions:
 
 These resources may incur cost depending on your AWS account type. Please take note and ensure you know what you are doing before running the script.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
