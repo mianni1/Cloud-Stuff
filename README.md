@@ -22,7 +22,7 @@ I'll be organizing my projects into separate folders within this repository. Eac
 
 - [Networking/AWS_Slightly_Complex_Ver_Networking](Networking/AWS_Slightly_Complex_Ver_Networking)
 - [Terraform/Azure_Resource_Group_Creation](Terraform/Azure_Resource_Group_Creation)
-- [Terraform/Azure_Virtual_Machine_Creation](Terraform/Azure_Virtual_Machine_Creation)
+- [Terraform/Azure_VM_Creation](Terraform/Azure_VM_Creation)
 
 ## Setup
 
