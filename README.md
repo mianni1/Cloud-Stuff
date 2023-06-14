@@ -23,10 +23,11 @@ I'll be organizing my projects into separate folders within this repository. Eac
 - [Networking/AWS_Slightly_Complex_Ver_Networking](Networking/AWS_Slightly_Complex_Ver_Networking)
 - [Terraform/Azure_Resource_Group_Creation](Terraform/Azure_Resource_Group_Creation)
 - [Terraform/Azure_VM_Creation](Terraform/Azure_VM_Creation)
+- [Terraform/AWS_VPC_Creation](Terraform/AWS_VPC_Creation)
 
 ## Setup
 
-This is my setup:
+This is what I have in my setup:
 
 - Apple Silicon MacBook Pro
 - [Homebrew](https://brew.sh/) package manager installed
